@@ -4,8 +4,8 @@ Black Jack Javascript Game
 
 <b>Usage :</b>
 <ul>
-  <li>Double click index.html using your default browser</li>
-  <li>Alternate: right click index.html</li>
+  <li>Double click BlackJack.html using your default browser</li>
+  <li>Alternate: right click BlackJack.html</li>
   <li>Choose <b>Open With</b></li>
   <li>Pick your favorite browser</li>
 </ul>
